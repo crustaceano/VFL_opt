@@ -1,5 +1,3 @@
-# VFL_opt
-
 # VFL opt: Vertical Distributed Learning 
 
 **VFL opt** — реализация стохастических методов оптимизации в архитектуре вертикального федеративного обучения (VFL). Проект демонстрирует сравнение между двумя алгоритмами: **LiCoSGD (Linear Complexity SGD)** и **Extra-Gradient VFL**.
